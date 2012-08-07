@@ -12,6 +12,7 @@ The value can be broken down into 3 principles:
 * Recency
 * Geographical coverage
 * Accessibility
+  * We focus on mobile-compatible website, iPhone app, and Android app
 
 Or specifically speaking:
 
@@ -34,11 +35,5 @@ Other peripheral principles:
 * Integrity of information
   * Trusted users are individual, who has integrity and won't abuse the system; We give them special pins
   * Organizational users are restaurants, hotels, and etc., who want to announce that their branches are still open
-
-
-
-
-
-
 
 

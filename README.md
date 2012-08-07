@@ -13,7 +13,7 @@ The value can be broken down into 3 principles:
 * Geographical coverage
 * Accessibility
 
-Or speaking in a more specific manner:
+Or specifically speaking:
 
 * Flood information that is older than 24 hours has no value to users
 * Flood information that is NOT in an interested area of a user has no value to him/her
@@ -22,20 +22,23 @@ Or speaking in a more specific manner:
 Other peripheral principles:
 
 * Easiness
+  * Users don't need to authenticate themselves before submitting data; We identify them with unique ID generated from their phones.
+  * Users from website still need to authenticate themselves
 * Privacy
+  * We don't show users' identities
 * Feedback
+  * Users can see how many people view their posts, and their posts are expressed as special pins. They can see how much impact they have on other people.
+  * Users also have their impact score
 * User-oriented
+  * The levels of water are expressed in user's language: น้ำท่วมข้อเท้า (รถผ่านได้), น้ำท่วมครึ่งเข่า, น้ำท่วมเข่า (รถผ่านไม่ได้)
+* Integrity of information
+  * Trusted users are individual, who has integrity and won't abuse the system; We give them special pins
+  * Organizational users are restaurants, hotels, and etc., who want to announce that their branches are still open
 
-Or specifically speaking:
 
-* Users don't need to authenticate themselves before submitting data; We identify them with unique ID generated from their phones.
-* Users from website need to authenticate themselves.
-* Users can see how many people view their posts, and their posts are expressed as special pins. They can see how much impact they have on other people.
-* Users also have their impact score
-* Trusted users are individual, who has integrity and won't abuse the system; We give them special pins
-* Organizational users are restaurants, who want to announce that their branches are still open
-* We don't show users' identities
-* The levels of water are expressed in user's language: น้ำท่วมข้อเท้า (รถผ่านได้), น้ำท่วมครึ่งเข่า, น้ำท่วมเข่า (รถผ่านไม่ได้)
+
+
+
 
 
 
